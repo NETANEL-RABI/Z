@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">YT Premium</string>
+
+    <!--
+      שימי כאן את מפתח ה-YouTube Data API שלך.
+      איך מקבלים מפתח: console.cloud.google.com -> APIs & Services -> Credentials
+      צריך להפעיל את "YouTube Data API v3" בפרויקט.
+    -->
+    <string name="youtube_api_key">PUT_YOUR_YOUTUBE_DATA_API_KEY_HERE</string>
+</resources>
